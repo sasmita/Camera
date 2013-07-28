@@ -4,7 +4,7 @@
     <string name="app_name">Camera</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-    <string name="get_photo"></string>
+    <string name="get_photo"> Capture </string>
     <string name="description"> will vary; image taken from camera </string>
 
 </resources>
